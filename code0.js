@@ -66,7 +66,7 @@ gdjs.Untitled_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().t
 }
 if (gdjs.Untitled_32sceneCode.condition2IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Dialogue"), gdjs.Untitled_32sceneCode.GDDialogueObjects2);
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "assets\\sfx\\bonzi\\intro.wav", 1, false, 100, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "intro.wav", 1, false, 100, 1);
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDialogueObjects2.length ;i < len;++i) {
     gdjs.Untitled_32sceneCode.GDDialogueObjects2[i].setBBText("Hello! Today we will be learning about writing equations in slope-intercept form. Any questions before we start?");
 }
@@ -99,7 +99,7 @@ gdjs.Untitled_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().t
 }
 if (gdjs.Untitled_32sceneCode.condition2IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Dialogue"), gdjs.Untitled_32sceneCode.GDDialogueObjects2);
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "assets\\sfx\\bonzi\\intro2.wav", 1, false, 100, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "intro2.wav", 1, false, 100, 1);
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDialogueObjects2.length ;i < len;++i) {
     gdjs.Untitled_32sceneCode.GDDialogueObjects2[i].hide(false);
 }
