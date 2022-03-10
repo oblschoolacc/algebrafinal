@@ -63,7 +63,7 @@ for(var i = 0, k = 0, l = gdjs.MainCode.GDBonziObjects2.length;i<l;++i) {
 gdjs.MainCode.GDBonziObjects2.length = k;}if ( gdjs.MainCode.condition1IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition2IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8023996);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8088716);
 }
 }}
 }
@@ -98,7 +98,7 @@ gdjs.MainCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariableString(
 }if ( gdjs.MainCode.condition1IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition2IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8026052);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8090676);
 }
 }}
 }
@@ -131,7 +131,7 @@ gdjs.MainCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariableString(
 }if ( gdjs.MainCode.condition1IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition2IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7316804);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8092908);
 }
 }}
 }
@@ -164,7 +164,7 @@ gdjs.MainCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariableString(
 }if ( gdjs.MainCode.condition1IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition2IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8027948);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8095084);
 }
 }}
 }
@@ -219,7 +219,7 @@ for(var i = 0, k = 0, l = gdjs.MainCode.GDBonziObjects2.length;i<l;++i) {
 gdjs.MainCode.GDBonziObjects2.length = k;}if ( gdjs.MainCode.condition2IsTrue_0.val ) {
 {
 {gdjs.MainCode.conditionTrue_1 = gdjs.MainCode.condition3IsTrue_0;
-gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8030444);
+gdjs.MainCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8097668);
 }
 }if ( gdjs.MainCode.condition3IsTrue_0.val ) {
 {
